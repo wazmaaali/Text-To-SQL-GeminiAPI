@@ -1,0 +1,6 @@
+streamlit
+google-generativeai>=1.0.0
+python-dotenv
+transformers
+accelerate 
+duckdb
